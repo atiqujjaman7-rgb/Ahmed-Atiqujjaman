@@ -1,0 +1,7 @@
+{
+  "name": "UKBU Official - Supporters Hub",
+  "description": "The official digital platform for UKBU members, featuring match updates, digital membership IDs, exclusive merchandise, and community events with a premium Bangladesh-inspired aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
